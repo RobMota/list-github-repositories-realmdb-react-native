@@ -1,10 +1,10 @@
 # Projeto: Repositórios do GitHub em React Native e RealmDB
 
-Apresenta uma breve descrição de um repositório existente no GitHub usando React Native .
+Apresenta offline uma breve descrição de um repositório existente no GitHub usando React Native .
 
 ### Utilidade:
 
-- Aplicação em React Native usada como aprendizado de armazenamento offline usando RealmDB.
+- Aplicação mobile em React Native usada como aprendizado de armazenamento offline usando RealmDB.
 
 #### Principais Materiais:
 
@@ -12,10 +12,10 @@ Apresenta uma breve descrição de um repositório existente no GitHub usando Re
 - Realm
 - Styled Components
 - Axios
-- NPM
+- Npm
 - NodeJs
 
-###Pré-requisitos
+#### Pré-requisitos
 
 Antes de usar a aplicação, é ideal que você tenha o ambiente configurado para criar e testar aplicativos em React Native.
 
@@ -32,12 +32,13 @@ Caso não tenha, siga os passos do link abaixo:
 
 - `npm install`
 - `npm install react-native-vector-icons --save`
-- `npx react-native link react-native-vector-icons `
+- `npx react-native link react-native-vector-icons`
 - `npx react-native start --reset-cache`
 
 5. Abra outro terminal ( cmd/propt de comando )
 6. Acesse a pasta ( cd Realm-Repository-Github)
 7. e digite o comando abaixo:
+
 - `npx react-native run-android` ( ou run-ios)
 
 #### Autor do projeto original:
